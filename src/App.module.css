@@ -1,0 +1,10 @@
+.calculator{
+  border: 1px solid rgba(0, 0, 0, 0.295);
+  width: 15rem;
+  border-radius: 5px;
+  justify-content: center;
+  margin-left: 40%;
+  margin-top: 10rem;
+  text-align: center;
+  
+}
